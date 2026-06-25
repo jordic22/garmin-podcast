@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>Garmin Music</title>
+<link>https://jordic22.github.io/garmin-podcast/</link>
+<description>MP3 per al Garmin</description>
+
+<item>
+<title>Video Starlet</title>
+
+<enclosure
+url="https://archive.org/details/e-rotic-molly-dolly-loves-a-lolly_202606/E-Rotic+-+Video+Starlet.mp3"
+type="audio/mpeg"/>
+
+<guid>001</guid>
+
+</item>
+
+</channel>
+</rss>
