@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
 
@@ -7,23 +8,22 @@
 <link>https://github.com/jordic22/garmin-podcast/</link>
 <description>MP3 per al Garmin Fenix 8S</description>
 <language>ca</language>
+<itunes:author>Jordi</itunes:author>
+<itunes:explicit>false</itunes:explicit>
 
 <item>
 <title>Video Starlet</title>
 
-<pubDate>Wed, 25 Jun 2026 12:00:00 GMT</pubDate>
+<guid isPermaLink="false">video-starlet-001</guid>
 
-<guid isPermaLink="false">
-video-starlet-001
-</guid>
+<pubDate>Thu, 25 Jun 2026 10:00:00 GMT</pubDate>
 
 <enclosure
-url="https://ia801402.us.archive.org/32/items/e-rotic-molly-dolly-loves-a-lolly_202606/E-Rotic%20-%20Video%20Starlet.mp3"
-length="12345678"
-type="audio/mpeg" />
+    url="https://ia801402.us.archive.org/32/items/e-rotic-molly-dolly-loves-a-lolly_202606/E-Rotic%20-%20Video%20Starlet.mp3"
+    length="0"
+    type="audio/mpeg" />
 
 </item>
 
 </channel>
-
 </rss>
