@@ -6,15 +6,16 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <title>Garmin Music</title>
 <link>https://github.com/jordic22/garmin-podcast/</link>
-<description>MP3 per al Garmin Fenix 8S</description>
+<description>MP3 per Garmin Fenix 8S</description>
 
 <language>ca</language>
 
 <itunes:author>Jordi</itunes:author>
 <itunes:category text="Music"/>
-<itunes:image href="https://via.placeholder.com/1400x1400.png"/>
+<itunes:image href="https://jordic22.github.io/garmin-podcast/artwork.jpg"/>
 
 <item>
+
 <title>Video Starlet</title>
 
 <link>https://archive.org</link>
