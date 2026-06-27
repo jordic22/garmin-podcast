@@ -12,7 +12,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <itunes:author>Jordi</itunes:author>
 <itunes:category text="Music"/>
-<itunes:image href="https://github.com/jordic22/garmin-podcast/blob/main/a.jpg"/>
+<itunes:image href="https://jordic22.github.io/garmin-podcast/a.jpg"/>
 
 <item>
 
