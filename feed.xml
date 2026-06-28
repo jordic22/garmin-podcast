@@ -25,6 +25,15 @@
 
 <itunes:author>Jordi</itunes:author>
 
+     <itunes:owner>
+    <itunes:name>Jordi</itunes:name>
+    <itunes:email>jordi22.mail@gmail.com</itunes:email>
+</itunes:owner>
+
+<managingEditor>jordi22.mail@gmail.com (Jordi)</managingEditor>
+
+<webMaster>jordi22.mail@gmail.com (Jordi)</webMaster>
+
 <itunes:summary>MP3 per al Garmin Fenix 8S</itunes:summary>
 
 <itunes:explicit>false</itunes:explicit>
